@@ -18,8 +18,8 @@ This project focuses on utilizing the T5 model from HuggingFace for grammatical 
 pip install transformers datasets evaluate
 pip install sentencepiece
 pip install sacrebleu
+````bash`
 
-```bash
 
 # Data Preparation
 
@@ -39,4 +39,7 @@ def preprocess_function(examples):
     return model_inputs
 
 tokenized_datasets = dataset.map(preprocess_function, batched=True)
+````python`
+
+## 
 
