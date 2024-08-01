@@ -1,4 +1,4 @@
-# Grammatical Error Correction using T5
+# Grammatical Error Correction using T5 (Text-to-Text Transfer Transformer)
 
 ## Table of Contents
 - [Introduction](#introduction)
