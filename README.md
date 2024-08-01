@@ -5,10 +5,10 @@
 - [Installation](#installation)
 - [Data Preparation](#data-preparation)
 - [Token Selection](#token-selection)
-- [Data Preprocess Function](#tdata-preprocess-pipeline)
-- [Training & Evaluation](#training-evaluation)
+- [Data Preprocess Function](#custom-data-preprocess-pipeline)
+- [Training & Evaluation](#training-and-evaluation)
 - [Conclusion](#conclusion)
-- [Future Work](#future-works)
+- [Future Work](#future-work)
 
 ## Introduction
 This project focuses on utilizing the T5 model from HuggingFace for grammatical error correction. T5 (Text-to-Text Transfer Transformer) is a versatile model that can convert all NLP tasks into a text-to-text format. In this project, we leverage T5 to identify and correct grammatical errors in sentences.
